@@ -1,0 +1,36 @@
+/* Add your CSS styles here */
+
+/* Example: Changing the background color of the body */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Example: Styling the h1 element */
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Example: Styling the list items */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  /* Example: Styling hyperlinks */
+  a {
+    text-decoration: none;
+    color: #0077b6;
+  }
+  
+  /* Example: Changing link color on hover */
+  a:hover {
+    color: #ff6b6b;
+  }
